@@ -1,4 +1,4 @@
 # spyder-ide-in-coder
-Dockerfile repo for Spyder IDE to use with Coder demo
+Dockerfile repo for Spyder IDE to use with Coder as a demo
 
-See [Dockerhub](https://hub.docker.com/repository/docker/iamhughes/spyder-ide-example/general)
+See [Dockerhub](https://hub.docker.com/repository/docker/iamhughes/spyder-ide-example/general) for container.
