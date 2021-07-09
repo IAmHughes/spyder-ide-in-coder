@@ -1,5 +1,3 @@
 FROM codercom/enterprise-vnc:ubuntu
-
 RUN sudo apt-get update && sudo apt-get install spyder3 -y
-
 COPY spyder.desktop /usr/share/applications
